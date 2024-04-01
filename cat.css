@@ -1,0 +1,54 @@
+* 
+{
+    color:rgb(220, 24, 24);
+}
+
+
+.bild
+{
+    width: 1200px ;
+    margin-left: 190px;
+}
+
+.second-bild
+{
+    margin-left:380px;
+}
+
+.drei
+{
+width:1200px;
+margin-left:190px;
+}
+
+h1
+{
+    margin-left: 700px;
+}
+
+body
+{
+    background-image:url(https://i.pinimg.com/originals/4a/5a/56/4a5a56622baf808a321c1980a24c8253.jpg);
+}
+
+
+.intro
+{
+    margin-left: 700px;
+}
+
+h2
+{
+    margin-left:750px;
+}
+
+ul,p,ol,h4,h3,textarea
+{
+    margin-left:600px;
+}
+
+.opo
+{
+    margin-left: 700px;
+}
+
